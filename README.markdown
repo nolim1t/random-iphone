@@ -1,4 +1,4 @@
-<h3>Random bits of Objective-C code>/h3>
+<h3>Random bits of Objective-C code</h3>
 
 <strong><ul>ViewControllers</ul></strong>
 ledViewController   -   View controller for toggling on and off the
