@@ -1,6 +1,0 @@
-Random bits of Objective-C code
-
-TwitterFeed		-	Prints out all my tweets. Can be easily adapted
-JiraIssues		-	Downloads All Resolved Issues from Jira. Very
-				simple class but it can be expanded upon.
-
