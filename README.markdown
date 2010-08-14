@@ -1,11 +1,26 @@
-<h3>Random bits of Objective-C code</h3>
+<h2>Random bits of Objective-C code</h3>
 
-<strong><ul>ViewControllers</ul></strong>
-ledViewController   -   View controller for toggling on and off the
-                        iPhone4 torch.
+<h3>ViewControllers</h3>
+<ul>
+<li>
+<ul><li>ledViewController</li>
+<li>View controller for toggling on and off the iPhone4 torch.</li>
+</li>
+</ul>
 
-<strong><ul>Deprecated</ul></strong>
-TwitterFeed		-	Prints out all my tweets. Can be easily adapted
-JiraIssues		-	Downloads All Resolved Issues from Jira. Very
-				simple class but it can be expanded upon.
+<h3>Deprecated</h3>
+<ul>
 
+<li><ul>
+<li>TwitterFeed</li>
+<li>Prints out all my tweets. Can be easily adapted</li>
+</ul>
+</li>
+
+<li>
+<ul><li>JiraIssues</li>
+<li>Downloads All Resolved Issues from Jira. Very simple class but it can be expanded upon.</li>
+</ul>
+</li>
+
+</ul>
